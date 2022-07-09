@@ -1,2 +1,2 @@
 # drf-api
-basic API using Django REST framework
+Basic API using Django REST framework
